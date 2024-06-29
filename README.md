@@ -1,3 +1,4 @@
 # Music-Genre-Identification
 Music genre identification utilizes Deep learning techniques to classify songs based on audio features like rhythm, pitch, tempo, and timbre. This process involves analyzing spectral and temporal characteristics to categorize music into genres such as rock, jazz, hip-hop, and classical. Applications include enhancing music recommendation systems, creating personalized playlists, categorizing radio station content, and automating genre tagging in digital music libraries. It enables users to discover new music based on preferences and facilitates efficient management and organization of large music collections across various platforms and services.
+
 Convert Audio File into jpg file using spectrogram. spectrogram are .jpg files which contain Audio footprint. I used CNN architecture followed by FFN to classifiy 10 genre. 
